@@ -1,2 +1,2 @@
-Creating a directory
-the Bash directory contains some file
+Creating a directory -
+The Bash directory contains some file
